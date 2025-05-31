@@ -41,7 +41,7 @@ Note: This is **not** affiliated with the Memoria Project, a 2023 Proof-of-conce
     - Cards: lower randomness, card limit raised, auto discard cards
     - Manual Trance
  
-![screenshots.jpg](https://github.com/user-attachments/assets/2bacaa4c-c380-44a8-bc67-9814594154d0)
+![showcase.png](https://github.com/user-attachments/assets/4287ec5e-5180-4273-bf67-c7deb9c34649)
 
 ## Use
 
